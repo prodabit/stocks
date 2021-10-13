@@ -1,0 +1,662 @@
+<?xml version="1.0"?>
+<ArrayOfAnexoTexto xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AnexoTexto>
+    <Documento>
+      <Documentos />
+      <VersaoLiteral>
+        <NumeroVersaoLiteral>0</NumeroVersaoLiteral>
+        <IndicadorVersaoLiteralAtivo>false</IndicadorVersaoLiteralAtivo>
+      </VersaoLiteral>
+      <VersaoExecutavelSistema>
+        <NumeroVersaoExecutavelSistema />
+        <NumeroVersaoBancoDadosSistema />
+        <NumeroVersaoFixSistema />
+        <NumeroVersaoScriptSistema />
+        <NotaUsuario />
+        <Observacao />
+        <LinkVersaoExecutavelSistema />
+        <LinkVersaoBancoDadosSistema />
+        <LinkVersaoScriptSistema />
+        <LinkVersaoFixSistema />
+        <ReleaseVersao>...</ReleaseVersao>
+        <CodigoTipoAtualizacao />
+        <DataInicioValidadeVersao>0001-01-01T00:00:00</DataInicioValidadeVersao>
+        <DataFimValidadeVersao>0001-01-01T00:00:00</DataFimValidadeVersao>
+      </VersaoExecutavelSistema>
+      <CompanhiaAberta>
+        <NumeroSequencialRegistroCvm>0</NumeroSequencialRegistroCvm>
+        <CodigoTipoParticipante>0</CodigoTipoParticipante>
+        <CodigoCvm />
+        <IndicadorSociedadeAnonimaAtiva>false</IndicadorSociedadeAnonimaAtiva>
+        <TemIPE>false</TemIPE>
+        <NomeRazaoSocialCompanhiaAberta />
+        <NumeroCnpjCompanhiaAberta />
+        <CodigoCategoriaEmissor>0</CodigoCategoriaEmissor>
+        <CodigoSituacaoRegistroCvm>0</CodigoSituacaoRegistroCvm>
+        <CodigoSituacaoCompanhiaAberta>0</CodigoSituacaoCompanhiaAberta>
+        <NumeroMesEncerramentoExercicioSocial>0</NumeroMesEncerramentoExercicioSocial>
+        <NumeroAnoEncerramentoExercicioSocial>0</NumeroAnoEncerramentoExercicioSocial>
+        <TipoEmpresa>0</TipoEmpresa>
+        <DataRegistroCvm>0001-01-01T00:00:00</DataRegistroCvm>
+        <DataInicioRazaoSocial>0001-01-01T00:00:00</DataInicioRazaoSocial>
+        <DataConstituicaoEmpresa>0001-01-01T00:00:00</DataConstituicaoEmpresa>
+        <DataInicioSituacaoCompanhiaAberta>0001-01-01T00:00:00</DataInicioSituacaoCompanhiaAberta>
+        <DataInicioSituacaoRegistroCvm>0001-01-01T00:00:00</DataInicioSituacaoRegistroCvm>
+        <CodigoSetorAtividadeEmpresa>0</CodigoSetorAtividadeEmpresa>
+        <CodigoEspecieControleAcionario>0</CodigoEspecieControleAcionario>
+        <DataUltimaAlteracaoControleAcionario>0001-01-01T00:00:00</DataUltimaAlteracaoControleAcionario>
+        <DataRegistroAtualCategoriaEmissorCvm>0001-01-01T00:00:00</DataRegistroAtualCategoriaEmissorCvm>
+      </CompanhiaAberta>
+      <AssuntoDocumento />
+      <PublicacaoDocumento />
+      <NumeroSequencialDocumento>1218</NumeroSequencialDocumento>
+      <CodigoTipoDocumento>0</CodigoTipoDocumento>
+      <DataReferenciaDocumento>0001-01-01T00:00:00</DataReferenciaDocumento>
+      <NumeroVersaoDocumento>0</NumeroVersaoDocumento>
+      <IndicadorPendenciaDocumento>false</IndicadorPendenciaDocumento>
+      <IndicadorArquivoValido>false</IndicadorArquivoValido>
+      <CodigoMoeda>0</CodigoMoeda>
+      <CodigoEscalaMoeda>0</CodigoEscalaMoeda>
+      <CodigoEscalaQuantidade>0</CodigoEscalaQuantidade>
+      <DataGeracaoArquivo>0001-01-01T00:00:00</DataGeracaoArquivo>
+      <CodigoTipoApresentacao>0</CodigoTipoApresentacao>
+      <CodigoTipoEntregaDocumento>0</CodigoTipoEntregaDocumento>
+      <DataEntrega>0001-01-01T00:00:00</DataEntrega>
+      <DocumentoRelacionado xsi:nil="true" />
+      <NumeroVersaoGrupoQuadroCampo>0</NumeroVersaoGrupoQuadroCampo>
+      <MotivosReapresentacaoDocumento />
+      <ControlesDominio />
+      <DetalhesDominio />
+      <SituacaoArquivo>
+        <CodigoSituacaoArquivo>0</CodigoSituacaoArquivo>
+        <IndicadorExibicaoArquivoSite>false</IndicadorExibicaoArquivoSite>
+        <Instituicao>
+          <RegistroCvm>
+            <NumeroSequencialRegistroCvm>0</NumeroSequencialRegistroCvm>
+            <CodigoTipoParticipante>0</CodigoTipoParticipante>
+            <CodigoCvm />
+            <IndicadorSociedadeAnonimaAtiva>false</IndicadorSociedadeAnonimaAtiva>
+          </RegistroCvm>
+          <CodigoInstituicao>0</CodigoInstituicao>
+          <IndicadorGerenciamentoAtivo>false</IndicadorGerenciamentoAtivo>
+        </Instituicao>
+        <TextoLogRecebimentoAutomatico />
+      </SituacaoArquivo>
+      <HistoricosAcao />
+      <TipoAnalise>false</TipoAnalise>
+      <Ano>0</Ano>
+      <CodigoCategoria>0</CodigoCategoria>
+      <CodigoTipo>0</CodigoTipo>
+      <CodigoEspecie>0</CodigoEspecie>
+      <DataFimCompetenciaArquivo>0001-01-01T00:00:00</DataFimCompetenciaArquivo>
+      <DataInicioCompetenciaArquivo>0001-01-01T00:00:00</DataInicioCompetenciaArquivo>
+      <DataRecebimentoArquivo>0001-01-01T00:00:00</DataRecebimentoArquivo>
+      <TipoFormatoDataReferencia>0</TipoFormatoDataReferencia>
+      <FlagAssunto>0</FlagAssunto>
+      <FlagPublicacao>0</FlagPublicacao>
+      <DataFimVigenciaCategoria>0001-01-01T00:00:00</DataFimVigenciaCategoria>
+      <DataInicioVigenciaCategoria>0001-01-01T00:00:00</DataInicioVigenciaCategoria>
+      <IndicadorDataRelacionadaCategoria>0</IndicadorDataRelacionadaCategoria>
+      <SituacaoCategoria>0</SituacaoCategoria>
+      <TipoFormatoDataCategoria>0</TipoFormatoDataCategoria>
+      <DataFimVigenciaTipo>0001-01-01T00:00:00</DataFimVigenciaTipo>
+      <DataInicioVigenciaTipo>0001-01-01T00:00:00</DataInicioVigenciaTipo>
+      <IndicadorDataRElacionadaTipo>0</IndicadorDataRElacionadaTipo>
+      <SituacaoTipo>0</SituacaoTipo>
+      <TipoFormatoDataTipo>0</TipoFormatoDataTipo>
+      <DateTimeDataFimVigenciaEspecie>0001-01-01T00:00:00</DateTimeDataFimVigenciaEspecie>
+      <DateTimeDataInicioVigenciaEspecie>0001-01-01T00:00:00</DateTimeDataInicioVigenciaEspecie>
+      <IndicadorDataRelacionadaEspecie>0</IndicadorDataRelacionadaEspecie>
+      <SituacaoEspecie>0</SituacaoEspecie>
+      <TipoFormatoDataEspecie>0</TipoFormatoDataEspecie>
+      <CodigoPeriodicidadeArquivo>0</CodigoPeriodicidadeArquivo>
+      <TipoDataCompetencia>0</TipoDataCompetencia>
+      <CodigoTipoPeriodicidade>0</CodigoTipoPeriodicidade>
+      <TamanhoMaximoArquivo>0</TamanhoMaximoArquivo>
+      <CodigoClassificacao>0</CodigoClassificacao>
+      <DataReferenciaArquivo>0001-01-01T00:00:00</DataReferenciaArquivo>
+      <TipoApresentacaoArquivo>0</TipoApresentacaoArquivo>
+      <TipoArquivo>0</TipoArquivo>
+      <TamanhoArquivo>0</TamanhoArquivo>
+      <FlagReferenciaDataCompetencia>0</FlagReferenciaDataCompetencia>
+      <TipoEnvio>0</TipoEnvio>
+      <CodigoFormatoArquivo>0</CodigoFormatoArquivo>
+      <ValorPeriodicidade>0</ValorPeriodicidade>
+      <CodigoDRI>0</CodigoDRI>
+      <NumeroProtocoloArquivoIpe>0</NumeroProtocoloArquivoIpe>
+      <CodigoRiArquivo>0</CodigoRiArquivo>
+      <PrimeiraDataUltimoExercicioSocial>0001-01-01T00:00:00</PrimeiraDataUltimoExercicioSocial>
+    </Documento>
+    <NumeroQuadroRelacionado>209</NumeroQuadroRelacionado>
+    <NumeroCampoRelacionado>0</NumeroCampoRelacionado>
+    <NumeroGrupoRelacionado>207</NumeroGrupoRelacionado>
+    <NumeroItemTextoLivre>1</NumeroItemTextoLivre>
+    <NumeroSubCampo>0</NumeroSubCampo>
+    <Texto>RELATÓRIO DE REVISÃO DO AUDITOR INDEPENDENTE SOBRE AS INFORMAÇÕES CONTÁBEIS INTERMEDIÁRIAS, INDIVIDUAIS E CONSOLIDADAS
+
+
+Aos
+Acionistas, Conselheiros e Diretores da 
+Minerva S.A
+São Paulo - SP  
+
+
+Introdução
+
+Revisamos as informações contábeis intermediárias, individuais e consolidadas, da Minerva S.A (“Companhia”), identificadas como Controladora e Consolidado, contidas no Formulário de Informações Trimestrais (ITR) referente ao trimestre findo em 31 de março de 2021, que compreendem o balanço patrimonial, individual e consolidado, em 31 de março de 2021, e as respectivas demonstrações, individuais e consolidadas, do resultado, do resultado abrangente, das mutações do patrimônio líquido e dos fluxos de caixa para o período de três meses findo naquela data, incluindo o resumo das principais políticas contábeis e as demais notas explicativas. 
+
+A Administração é responsável pela elaboração das informações contábeis intermediárias, individuais e consolidadas, de acordo com o Pronunciamento Técnico CPC 21 (R1) - Demonstração intermediária e com a norma internacional “IAS 34 - Interim Financial Reporting”, emitida pelo “International Accounting Standards Board (IASB)”, assim como pela apresentação dessas informações de forma condizente com as normas expedidas pela Comissão de Valores Mobiliários (CVM), aplicáveis à elaboração das Informações Trimestrais (ITR). Nossa responsabilidade é a de expressar uma conclusão sobre essas informações contábeis intermediárias, individuais e consolidadas, com base em nossa revisão.
+
+
+Alcance da revisão
+
+Conduzimos nossa revisão de acordo com as normas brasileiras e internacionais de revisão de informações contábeis intermediárias (NBC TR 2410 - Revisão de informações contábeis intermediárias executada pelo auditor da Entidade e “ISRE 2410 - Review of interim financial information performed by the independent auditor of the entity”, respectivamente). Uma revisão de informações intermediárias consiste na realização de indagações, principalmente às pessoas responsáveis pelos assuntos financeiros e contábeis e na aplicação de procedimentos analíticos e de outros procedimentos de revisão. O alcance de uma revisão é significativamente menor do que o de uma auditoria conduzida de acordo com as normas de auditoria e, consequentemente, não nos permitiu obter segurança de que tomamos conhecimento de todos os assuntos significativos que poderiam ser identificados em uma auditoria. Portanto, não expressamos uma opinião de auditoria.
+
+
+Conclusão sobre as informações contábeis intermediárias, individuais e consolidadas
+
+Com base em nossa revisão, não temos conhecimento de nenhum fato que nos leve a acreditar que as informações contábeis intermediárias, individuais e consolidadas, incluídas nas Informações Trimestrais (ITR) acima referidas não foram elaboradas, em todos os aspectos relevantes, de acordo com o CPC 21 (R1) e o IAS 34, aplicáveis à elaboração das Informações Trimestrais (ITR), e apresentadas de forma condizente com as normas expedidas pela Comissão de Valores Mobiliários (CVM).
+ 
+Outros assuntos
+
+Informações intermediárias do valor adicionado, individuais e consolidadas
+
+As informações contábeis intermediárias acima referidas incluem as informações intermediárias do valor adicionado (DVA), individuais e consolidadas, referentes ao período de três meses findo em 31 de março de 2021, elaboradas sob a responsabilidade da administração da Companhia e apresentadas como informação suplementar para fins do IAS 34. Essas informações foram submetidas a procedimentos de revisão executados em conjunto com a revisão das informações contábeis intermediárias, individuais e consolidadas, com o objetivo de concluir se elas estão conciliadas com as informações contábeis intermediárias e re</Texto>
+    <Idioma>
+      <CodigoIdioma>1</CodigoIdioma>
+      <NomeIdioma />
+      <CodigoIdiomaSistemaOperacional />
+    </Idioma>
+  </AnexoTexto>
+  <AnexoTexto>
+    <Documento>
+      <Documentos />
+      <VersaoLiteral>
+        <NumeroVersaoLiteral>0</NumeroVersaoLiteral>
+        <IndicadorVersaoLiteralAtivo>false</IndicadorVersaoLiteralAtivo>
+      </VersaoLiteral>
+      <VersaoExecutavelSistema>
+        <NumeroVersaoExecutavelSistema />
+        <NumeroVersaoBancoDadosSistema />
+        <NumeroVersaoFixSistema />
+        <NumeroVersaoScriptSistema />
+        <NotaUsuario />
+        <Observacao />
+        <LinkVersaoExecutavelSistema />
+        <LinkVersaoBancoDadosSistema />
+        <LinkVersaoScriptSistema />
+        <LinkVersaoFixSistema />
+        <ReleaseVersao>...</ReleaseVersao>
+        <CodigoTipoAtualizacao />
+        <DataInicioValidadeVersao>0001-01-01T00:00:00</DataInicioValidadeVersao>
+        <DataFimValidadeVersao>0001-01-01T00:00:00</DataFimValidadeVersao>
+      </VersaoExecutavelSistema>
+      <CompanhiaAberta>
+        <NumeroSequencialRegistroCvm>0</NumeroSequencialRegistroCvm>
+        <CodigoTipoParticipante>0</CodigoTipoParticipante>
+        <CodigoCvm />
+        <IndicadorSociedadeAnonimaAtiva>false</IndicadorSociedadeAnonimaAtiva>
+        <TemIPE>false</TemIPE>
+        <NomeRazaoSocialCompanhiaAberta />
+        <NumeroCnpjCompanhiaAberta />
+        <CodigoCategoriaEmissor>0</CodigoCategoriaEmissor>
+        <CodigoSituacaoRegistroCvm>0</CodigoSituacaoRegistroCvm>
+        <CodigoSituacaoCompanhiaAberta>0</CodigoSituacaoCompanhiaAberta>
+        <NumeroMesEncerramentoExercicioSocial>0</NumeroMesEncerramentoExercicioSocial>
+        <NumeroAnoEncerramentoExercicioSocial>0</NumeroAnoEncerramentoExercicioSocial>
+        <TipoEmpresa>0</TipoEmpresa>
+        <DataRegistroCvm>0001-01-01T00:00:00</DataRegistroCvm>
+        <DataInicioRazaoSocial>0001-01-01T00:00:00</DataInicioRazaoSocial>
+        <DataConstituicaoEmpresa>0001-01-01T00:00:00</DataConstituicaoEmpresa>
+        <DataInicioSituacaoCompanhiaAberta>0001-01-01T00:00:00</DataInicioSituacaoCompanhiaAberta>
+        <DataInicioSituacaoRegistroCvm>0001-01-01T00:00:00</DataInicioSituacaoRegistroCvm>
+        <CodigoSetorAtividadeEmpresa>0</CodigoSetorAtividadeEmpresa>
+        <CodigoEspecieControleAcionario>0</CodigoEspecieControleAcionario>
+        <DataUltimaAlteracaoControleAcionario>0001-01-01T00:00:00</DataUltimaAlteracaoControleAcionario>
+        <DataRegistroAtualCategoriaEmissorCvm>0001-01-01T00:00:00</DataRegistroAtualCategoriaEmissorCvm>
+      </CompanhiaAberta>
+      <AssuntoDocumento />
+      <PublicacaoDocumento />
+      <NumeroSequencialDocumento>1218</NumeroSequencialDocumento>
+      <CodigoTipoDocumento>0</CodigoTipoDocumento>
+      <DataReferenciaDocumento>0001-01-01T00:00:00</DataReferenciaDocumento>
+      <NumeroVersaoDocumento>0</NumeroVersaoDocumento>
+      <IndicadorPendenciaDocumento>false</IndicadorPendenciaDocumento>
+      <IndicadorArquivoValido>false</IndicadorArquivoValido>
+      <CodigoMoeda>0</CodigoMoeda>
+      <CodigoEscalaMoeda>0</CodigoEscalaMoeda>
+      <CodigoEscalaQuantidade>0</CodigoEscalaQuantidade>
+      <DataGeracaoArquivo>0001-01-01T00:00:00</DataGeracaoArquivo>
+      <CodigoTipoApresentacao>0</CodigoTipoApresentacao>
+      <CodigoTipoEntregaDocumento>0</CodigoTipoEntregaDocumento>
+      <DataEntrega>0001-01-01T00:00:00</DataEntrega>
+      <DocumentoRelacionado xsi:nil="true" />
+      <NumeroVersaoGrupoQuadroCampo>0</NumeroVersaoGrupoQuadroCampo>
+      <MotivosReapresentacaoDocumento />
+      <ControlesDominio />
+      <DetalhesDominio />
+      <SituacaoArquivo>
+        <CodigoSituacaoArquivo>0</CodigoSituacaoArquivo>
+        <IndicadorExibicaoArquivoSite>false</IndicadorExibicaoArquivoSite>
+        <Instituicao>
+          <RegistroCvm>
+            <NumeroSequencialRegistroCvm>0</NumeroSequencialRegistroCvm>
+            <CodigoTipoParticipante>0</CodigoTipoParticipante>
+            <CodigoCvm />
+            <IndicadorSociedadeAnonimaAtiva>false</IndicadorSociedadeAnonimaAtiva>
+          </RegistroCvm>
+          <CodigoInstituicao>0</CodigoInstituicao>
+          <IndicadorGerenciamentoAtivo>false</IndicadorGerenciamentoAtivo>
+        </Instituicao>
+        <TextoLogRecebimentoAutomatico />
+      </SituacaoArquivo>
+      <HistoricosAcao />
+      <TipoAnalise>false</TipoAnalise>
+      <Ano>0</Ano>
+      <CodigoCategoria>0</CodigoCategoria>
+      <CodigoTipo>0</CodigoTipo>
+      <CodigoEspecie>0</CodigoEspecie>
+      <DataFimCompetenciaArquivo>0001-01-01T00:00:00</DataFimCompetenciaArquivo>
+      <DataInicioCompetenciaArquivo>0001-01-01T00:00:00</DataInicioCompetenciaArquivo>
+      <DataRecebimentoArquivo>0001-01-01T00:00:00</DataRecebimentoArquivo>
+      <TipoFormatoDataReferencia>0</TipoFormatoDataReferencia>
+      <FlagAssunto>0</FlagAssunto>
+      <FlagPublicacao>0</FlagPublicacao>
+      <DataFimVigenciaCategoria>0001-01-01T00:00:00</DataFimVigenciaCategoria>
+      <DataInicioVigenciaCategoria>0001-01-01T00:00:00</DataInicioVigenciaCategoria>
+      <IndicadorDataRelacionadaCategoria>0</IndicadorDataRelacionadaCategoria>
+      <SituacaoCategoria>0</SituacaoCategoria>
+      <TipoFormatoDataCategoria>0</TipoFormatoDataCategoria>
+      <DataFimVigenciaTipo>0001-01-01T00:00:00</DataFimVigenciaTipo>
+      <DataInicioVigenciaTipo>0001-01-01T00:00:00</DataInicioVigenciaTipo>
+      <IndicadorDataRElacionadaTipo>0</IndicadorDataRElacionadaTipo>
+      <SituacaoTipo>0</SituacaoTipo>
+      <TipoFormatoDataTipo>0</TipoFormatoDataTipo>
+      <DateTimeDataFimVigenciaEspecie>0001-01-01T00:00:00</DateTimeDataFimVigenciaEspecie>
+      <DateTimeDataInicioVigenciaEspecie>0001-01-01T00:00:00</DateTimeDataInicioVigenciaEspecie>
+      <IndicadorDataRelacionadaEspecie>0</IndicadorDataRelacionadaEspecie>
+      <SituacaoEspecie>0</SituacaoEspecie>
+      <TipoFormatoDataEspecie>0</TipoFormatoDataEspecie>
+      <CodigoPeriodicidadeArquivo>0</CodigoPeriodicidadeArquivo>
+      <TipoDataCompetencia>0</TipoDataCompetencia>
+      <CodigoTipoPeriodicidade>0</CodigoTipoPeriodicidade>
+      <TamanhoMaximoArquivo>0</TamanhoMaximoArquivo>
+      <CodigoClassificacao>0</CodigoClassificacao>
+      <DataReferenciaArquivo>0001-01-01T00:00:00</DataReferenciaArquivo>
+      <TipoApresentacaoArquivo>0</TipoApresentacaoArquivo>
+      <TipoArquivo>0</TipoArquivo>
+      <TamanhoArquivo>0</TamanhoArquivo>
+      <FlagReferenciaDataCompetencia>0</FlagReferenciaDataCompetencia>
+      <TipoEnvio>0</TipoEnvio>
+      <CodigoFormatoArquivo>0</CodigoFormatoArquivo>
+      <ValorPeriodicidade>0</ValorPeriodicidade>
+      <CodigoDRI>0</CodigoDRI>
+      <NumeroProtocoloArquivoIpe>0</NumeroProtocoloArquivoIpe>
+      <CodigoRiArquivo>0</CodigoRiArquivo>
+      <PrimeiraDataUltimoExercicioSocial>0001-01-01T00:00:00</PrimeiraDataUltimoExercicioSocial>
+    </Documento>
+    <NumeroQuadroRelacionado>209</NumeroQuadroRelacionado>
+    <NumeroCampoRelacionado>0</NumeroCampoRelacionado>
+    <NumeroGrupoRelacionado>207</NumeroGrupoRelacionado>
+    <NumeroItemTextoLivre>2</NumeroItemTextoLivre>
+    <NumeroSubCampo>0</NumeroSubCampo>
+    <Texto>gistros contábeis, conforme aplicável, e se sua forma e conteúdo estão de acordo com os critérios definidos na NBC TG 09 – “Demonstração do Valor Adicionado”. Com base em nossa revisão, não temos conhecimento de nenhum fato que nos leve a acreditar que essas informações intermediárias do valor adicionado não foram elaboradas, em todos os aspectos relevantes, segundo os critérios definidos nesse Pronunciamento Técnico e de forma consistente em relação às informações contábeis intermediárias, individuais e consolidadas, tomadas em conjunto.
+
+Revisão dos valores correspondentes do período e exercício anterior
+
+Os valores correspondentes relativos aos balanços patrimoniais, individuais e consolidados, referentes ao exercício social encerrado em 31 de dezembro de 2020 e as demonstrações, individuais e consolidadas, do resultado, do resultado abrangente, das mutações do patrimônio líquido, dos fluxos de caixa e do valor adicionado, referentes ao trimestre findo em 31 de março de 2020, apresentados para fins de comparação, foram anteriormente auditados e revisados, respectivamente, por outros auditores independentes que emitiram relatório de auditoria e de revisão, respectivamente, datados em 25 de fevereiro de 2021 e 28 de abril de 2020, sem modificação.
+
+
+São Paulo, 04 de maio de 2021.
+
+
+
+BDO RCS Auditores Independentes SS
+CRC 2 SP 013846/0-1
+
+
+Francisco de Paula dos Reis Júnior
+Contador CRC 1 SP 139168/O-6
+
+
+</Texto>
+    <Idioma>
+      <CodigoIdioma>1</CodigoIdioma>
+      <NomeIdioma />
+      <CodigoIdiomaSistemaOperacional />
+    </Idioma>
+  </AnexoTexto>
+  <AnexoTexto>
+    <Documento>
+      <Documentos />
+      <VersaoLiteral>
+        <NumeroVersaoLiteral>0</NumeroVersaoLiteral>
+        <IndicadorVersaoLiteralAtivo>false</IndicadorVersaoLiteralAtivo>
+      </VersaoLiteral>
+      <VersaoExecutavelSistema>
+        <NumeroVersaoExecutavelSistema />
+        <NumeroVersaoBancoDadosSistema />
+        <NumeroVersaoFixSistema />
+        <NumeroVersaoScriptSistema />
+        <NotaUsuario />
+        <Observacao />
+        <LinkVersaoExecutavelSistema />
+        <LinkVersaoBancoDadosSistema />
+        <LinkVersaoScriptSistema />
+        <LinkVersaoFixSistema />
+        <ReleaseVersao>...</ReleaseVersao>
+        <CodigoTipoAtualizacao />
+        <DataInicioValidadeVersao>0001-01-01T00:00:00</DataInicioValidadeVersao>
+        <DataFimValidadeVersao>0001-01-01T00:00:00</DataFimValidadeVersao>
+      </VersaoExecutavelSistema>
+      <CompanhiaAberta>
+        <NumeroSequencialRegistroCvm>0</NumeroSequencialRegistroCvm>
+        <CodigoTipoParticipante>0</CodigoTipoParticipante>
+        <CodigoCvm />
+        <IndicadorSociedadeAnonimaAtiva>false</IndicadorSociedadeAnonimaAtiva>
+        <TemIPE>false</TemIPE>
+        <NomeRazaoSocialCompanhiaAberta />
+        <NumeroCnpjCompanhiaAberta />
+        <CodigoCategoriaEmissor>0</CodigoCategoriaEmissor>
+        <CodigoSituacaoRegistroCvm>0</CodigoSituacaoRegistroCvm>
+        <CodigoSituacaoCompanhiaAberta>0</CodigoSituacaoCompanhiaAberta>
+        <NumeroMesEncerramentoExercicioSocial>0</NumeroMesEncerramentoExercicioSocial>
+        <NumeroAnoEncerramentoExercicioSocial>0</NumeroAnoEncerramentoExercicioSocial>
+        <TipoEmpresa>0</TipoEmpresa>
+        <DataRegistroCvm>0001-01-01T00:00:00</DataRegistroCvm>
+        <DataInicioRazaoSocial>0001-01-01T00:00:00</DataInicioRazaoSocial>
+        <DataConstituicaoEmpresa>0001-01-01T00:00:00</DataConstituicaoEmpresa>
+        <DataInicioSituacaoCompanhiaAberta>0001-01-01T00:00:00</DataInicioSituacaoCompanhiaAberta>
+        <DataInicioSituacaoRegistroCvm>0001-01-01T00:00:00</DataInicioSituacaoRegistroCvm>
+        <CodigoSetorAtividadeEmpresa>0</CodigoSetorAtividadeEmpresa>
+        <CodigoEspecieControleAcionario>0</CodigoEspecieControleAcionario>
+        <DataUltimaAlteracaoControleAcionario>0001-01-01T00:00:00</DataUltimaAlteracaoControleAcionario>
+        <DataRegistroAtualCategoriaEmissorCvm>0001-01-01T00:00:00</DataRegistroAtualCategoriaEmissorCvm>
+      </CompanhiaAberta>
+      <AssuntoDocumento />
+      <PublicacaoDocumento />
+      <NumeroSequencialDocumento>1218</NumeroSequencialDocumento>
+      <CodigoTipoDocumento>0</CodigoTipoDocumento>
+      <DataReferenciaDocumento>0001-01-01T00:00:00</DataReferenciaDocumento>
+      <NumeroVersaoDocumento>0</NumeroVersaoDocumento>
+      <IndicadorPendenciaDocumento>false</IndicadorPendenciaDocumento>
+      <IndicadorArquivoValido>false</IndicadorArquivoValido>
+      <CodigoMoeda>0</CodigoMoeda>
+      <CodigoEscalaMoeda>0</CodigoEscalaMoeda>
+      <CodigoEscalaQuantidade>0</CodigoEscalaQuantidade>
+      <DataGeracaoArquivo>0001-01-01T00:00:00</DataGeracaoArquivo>
+      <CodigoTipoApresentacao>0</CodigoTipoApresentacao>
+      <CodigoTipoEntregaDocumento>0</CodigoTipoEntregaDocumento>
+      <DataEntrega>0001-01-01T00:00:00</DataEntrega>
+      <DocumentoRelacionado xsi:nil="true" />
+      <NumeroVersaoGrupoQuadroCampo>0</NumeroVersaoGrupoQuadroCampo>
+      <MotivosReapresentacaoDocumento />
+      <ControlesDominio />
+      <DetalhesDominio />
+      <SituacaoArquivo>
+        <CodigoSituacaoArquivo>0</CodigoSituacaoArquivo>
+        <IndicadorExibicaoArquivoSite>false</IndicadorExibicaoArquivoSite>
+        <Instituicao>
+          <RegistroCvm>
+            <NumeroSequencialRegistroCvm>0</NumeroSequencialRegistroCvm>
+            <CodigoTipoParticipante>0</CodigoTipoParticipante>
+            <CodigoCvm />
+            <IndicadorSociedadeAnonimaAtiva>false</IndicadorSociedadeAnonimaAtiva>
+          </RegistroCvm>
+          <CodigoInstituicao>0</CodigoInstituicao>
+          <IndicadorGerenciamentoAtivo>false</IndicadorGerenciamentoAtivo>
+        </Instituicao>
+        <TextoLogRecebimentoAutomatico />
+      </SituacaoArquivo>
+      <HistoricosAcao />
+      <TipoAnalise>false</TipoAnalise>
+      <Ano>0</Ano>
+      <CodigoCategoria>0</CodigoCategoria>
+      <CodigoTipo>0</CodigoTipo>
+      <CodigoEspecie>0</CodigoEspecie>
+      <DataFimCompetenciaArquivo>0001-01-01T00:00:00</DataFimCompetenciaArquivo>
+      <DataInicioCompetenciaArquivo>0001-01-01T00:00:00</DataInicioCompetenciaArquivo>
+      <DataRecebimentoArquivo>0001-01-01T00:00:00</DataRecebimentoArquivo>
+      <TipoFormatoDataReferencia>0</TipoFormatoDataReferencia>
+      <FlagAssunto>0</FlagAssunto>
+      <FlagPublicacao>0</FlagPublicacao>
+      <DataFimVigenciaCategoria>0001-01-01T00:00:00</DataFimVigenciaCategoria>
+      <DataInicioVigenciaCategoria>0001-01-01T00:00:00</DataInicioVigenciaCategoria>
+      <IndicadorDataRelacionadaCategoria>0</IndicadorDataRelacionadaCategoria>
+      <SituacaoCategoria>0</SituacaoCategoria>
+      <TipoFormatoDataCategoria>0</TipoFormatoDataCategoria>
+      <DataFimVigenciaTipo>0001-01-01T00:00:00</DataFimVigenciaTipo>
+      <DataInicioVigenciaTipo>0001-01-01T00:00:00</DataInicioVigenciaTipo>
+      <IndicadorDataRElacionadaTipo>0</IndicadorDataRElacionadaTipo>
+      <SituacaoTipo>0</SituacaoTipo>
+      <TipoFormatoDataTipo>0</TipoFormatoDataTipo>
+      <DateTimeDataFimVigenciaEspecie>0001-01-01T00:00:00</DateTimeDataFimVigenciaEspecie>
+      <DateTimeDataInicioVigenciaEspecie>0001-01-01T00:00:00</DateTimeDataInicioVigenciaEspecie>
+      <IndicadorDataRelacionadaEspecie>0</IndicadorDataRelacionadaEspecie>
+      <SituacaoEspecie>0</SituacaoEspecie>
+      <TipoFormatoDataEspecie>0</TipoFormatoDataEspecie>
+      <CodigoPeriodicidadeArquivo>0</CodigoPeriodicidadeArquivo>
+      <TipoDataCompetencia>0</TipoDataCompetencia>
+      <CodigoTipoPeriodicidade>0</CodigoTipoPeriodicidade>
+      <TamanhoMaximoArquivo>0</TamanhoMaximoArquivo>
+      <CodigoClassificacao>0</CodigoClassificacao>
+      <DataReferenciaArquivo>0001-01-01T00:00:00</DataReferenciaArquivo>
+      <TipoApresentacaoArquivo>0</TipoApresentacaoArquivo>
+      <TipoArquivo>0</TipoArquivo>
+      <TamanhoArquivo>0</TamanhoArquivo>
+      <FlagReferenciaDataCompetencia>0</FlagReferenciaDataCompetencia>
+      <TipoEnvio>0</TipoEnvio>
+      <CodigoFormatoArquivo>0</CodigoFormatoArquivo>
+      <ValorPeriodicidade>0</ValorPeriodicidade>
+      <CodigoDRI>0</CodigoDRI>
+      <NumeroProtocoloArquivoIpe>0</NumeroProtocoloArquivoIpe>
+      <CodigoRiArquivo>0</CodigoRiArquivo>
+      <PrimeiraDataUltimoExercicioSocial>0001-01-01T00:00:00</PrimeiraDataUltimoExercicioSocial>
+    </Documento>
+    <NumeroQuadroRelacionado>213</NumeroQuadroRelacionado>
+    <NumeroCampoRelacionado>0</NumeroCampoRelacionado>
+    <NumeroGrupoRelacionado>207</NumeroGrupoRelacionado>
+    <NumeroItemTextoLivre>1</NumeroItemTextoLivre>
+    <NumeroSubCampo>0</NumeroSubCampo>
+    <Texto>Declaração
+
+
+
+
+
+
+
+Barretos, 04 de maio de 2021
+
+
+
+
+
+Servimo-nos da presente para, em atenção ao disposto no Art. 25, inciso VI da Instrução CVM nº 480, de 7 de dezembro de 2009, declarar que, na qualidade de diretores da MINERVA S.A., revisamos, discutimos e concordamos com as informações contidas nas demonstrações financeiras da MINERVA S.A., referentes aos períodos trimestrais findos em 31 de março de 2021 e 31 de março de 2020. 
+
+
+Permanecemos à inteira disposição para esclarecimentos adicionais que se fizerem necessários.
+
+
+Atenciosamente,
+
+
+
+________________________
+Fernando Galletti de Queiroz 
+Diretor Presidente
+</Texto>
+    <Idioma>
+      <CodigoIdioma>1</CodigoIdioma>
+      <NomeIdioma />
+      <CodigoIdiomaSistemaOperacional />
+    </Idioma>
+  </AnexoTexto>
+  <AnexoTexto>
+    <Documento>
+      <Documentos />
+      <VersaoLiteral>
+        <NumeroVersaoLiteral>0</NumeroVersaoLiteral>
+        <IndicadorVersaoLiteralAtivo>false</IndicadorVersaoLiteralAtivo>
+      </VersaoLiteral>
+      <VersaoExecutavelSistema>
+        <NumeroVersaoExecutavelSistema />
+        <NumeroVersaoBancoDadosSistema />
+        <NumeroVersaoFixSistema />
+        <NumeroVersaoScriptSistema />
+        <NotaUsuario />
+        <Observacao />
+        <LinkVersaoExecutavelSistema />
+        <LinkVersaoBancoDadosSistema />
+        <LinkVersaoScriptSistema />
+        <LinkVersaoFixSistema />
+        <ReleaseVersao>...</ReleaseVersao>
+        <CodigoTipoAtualizacao />
+        <DataInicioValidadeVersao>0001-01-01T00:00:00</DataInicioValidadeVersao>
+        <DataFimValidadeVersao>0001-01-01T00:00:00</DataFimValidadeVersao>
+      </VersaoExecutavelSistema>
+      <CompanhiaAberta>
+        <NumeroSequencialRegistroCvm>0</NumeroSequencialRegistroCvm>
+        <CodigoTipoParticipante>0</CodigoTipoParticipante>
+        <CodigoCvm />
+        <IndicadorSociedadeAnonimaAtiva>false</IndicadorSociedadeAnonimaAtiva>
+        <TemIPE>false</TemIPE>
+        <NomeRazaoSocialCompanhiaAberta />
+        <NumeroCnpjCompanhiaAberta />
+        <CodigoCategoriaEmissor>0</CodigoCategoriaEmissor>
+        <CodigoSituacaoRegistroCvm>0</CodigoSituacaoRegistroCvm>
+        <CodigoSituacaoCompanhiaAberta>0</CodigoSituacaoCompanhiaAberta>
+        <NumeroMesEncerramentoExercicioSocial>0</NumeroMesEncerramentoExercicioSocial>
+        <NumeroAnoEncerramentoExercicioSocial>0</NumeroAnoEncerramentoExercicioSocial>
+        <TipoEmpresa>0</TipoEmpresa>
+        <DataRegistroCvm>0001-01-01T00:00:00</DataRegistroCvm>
+        <DataInicioRazaoSocial>0001-01-01T00:00:00</DataInicioRazaoSocial>
+        <DataConstituicaoEmpresa>0001-01-01T00:00:00</DataConstituicaoEmpresa>
+        <DataInicioSituacaoCompanhiaAberta>0001-01-01T00:00:00</DataInicioSituacaoCompanhiaAberta>
+        <DataInicioSituacaoRegistroCvm>0001-01-01T00:00:00</DataInicioSituacaoRegistroCvm>
+        <CodigoSetorAtividadeEmpresa>0</CodigoSetorAtividadeEmpresa>
+        <CodigoEspecieControleAcionario>0</CodigoEspecieControleAcionario>
+        <DataUltimaAlteracaoControleAcionario>0001-01-01T00:00:00</DataUltimaAlteracaoControleAcionario>
+        <DataRegistroAtualCategoriaEmissorCvm>0001-01-01T00:00:00</DataRegistroAtualCategoriaEmissorCvm>
+      </CompanhiaAberta>
+      <AssuntoDocumento />
+      <PublicacaoDocumento />
+      <NumeroSequencialDocumento>1218</NumeroSequencialDocumento>
+      <CodigoTipoDocumento>0</CodigoTipoDocumento>
+      <DataReferenciaDocumento>0001-01-01T00:00:00</DataReferenciaDocumento>
+      <NumeroVersaoDocumento>0</NumeroVersaoDocumento>
+      <IndicadorPendenciaDocumento>false</IndicadorPendenciaDocumento>
+      <IndicadorArquivoValido>false</IndicadorArquivoValido>
+      <CodigoMoeda>0</CodigoMoeda>
+      <CodigoEscalaMoeda>0</CodigoEscalaMoeda>
+      <CodigoEscalaQuantidade>0</CodigoEscalaQuantidade>
+      <DataGeracaoArquivo>0001-01-01T00:00:00</DataGeracaoArquivo>
+      <CodigoTipoApresentacao>0</CodigoTipoApresentacao>
+      <CodigoTipoEntregaDocumento>0</CodigoTipoEntregaDocumento>
+      <DataEntrega>0001-01-01T00:00:00</DataEntrega>
+      <DocumentoRelacionado xsi:nil="true" />
+      <NumeroVersaoGrupoQuadroCampo>0</NumeroVersaoGrupoQuadroCampo>
+      <MotivosReapresentacaoDocumento />
+      <ControlesDominio />
+      <DetalhesDominio />
+      <SituacaoArquivo>
+        <CodigoSituacaoArquivo>0</CodigoSituacaoArquivo>
+        <IndicadorExibicaoArquivoSite>false</IndicadorExibicaoArquivoSite>
+        <Instituicao>
+          <RegistroCvm>
+            <NumeroSequencialRegistroCvm>0</NumeroSequencialRegistroCvm>
+            <CodigoTipoParticipante>0</CodigoTipoParticipante>
+            <CodigoCvm />
+            <IndicadorSociedadeAnonimaAtiva>false</IndicadorSociedadeAnonimaAtiva>
+          </RegistroCvm>
+          <CodigoInstituicao>0</CodigoInstituicao>
+          <IndicadorGerenciamentoAtivo>false</IndicadorGerenciamentoAtivo>
+        </Instituicao>
+        <TextoLogRecebimentoAutomatico />
+      </SituacaoArquivo>
+      <HistoricosAcao />
+      <TipoAnalise>false</TipoAnalise>
+      <Ano>0</Ano>
+      <CodigoCategoria>0</CodigoCategoria>
+      <CodigoTipo>0</CodigoTipo>
+      <CodigoEspecie>0</CodigoEspecie>
+      <DataFimCompetenciaArquivo>0001-01-01T00:00:00</DataFimCompetenciaArquivo>
+      <DataInicioCompetenciaArquivo>0001-01-01T00:00:00</DataInicioCompetenciaArquivo>
+      <DataRecebimentoArquivo>0001-01-01T00:00:00</DataRecebimentoArquivo>
+      <TipoFormatoDataReferencia>0</TipoFormatoDataReferencia>
+      <FlagAssunto>0</FlagAssunto>
+      <FlagPublicacao>0</FlagPublicacao>
+      <DataFimVigenciaCategoria>0001-01-01T00:00:00</DataFimVigenciaCategoria>
+      <DataInicioVigenciaCategoria>0001-01-01T00:00:00</DataInicioVigenciaCategoria>
+      <IndicadorDataRelacionadaCategoria>0</IndicadorDataRelacionadaCategoria>
+      <SituacaoCategoria>0</SituacaoCategoria>
+      <TipoFormatoDataCategoria>0</TipoFormatoDataCategoria>
+      <DataFimVigenciaTipo>0001-01-01T00:00:00</DataFimVigenciaTipo>
+      <DataInicioVigenciaTipo>0001-01-01T00:00:00</DataInicioVigenciaTipo>
+      <IndicadorDataRElacionadaTipo>0</IndicadorDataRElacionadaTipo>
+      <SituacaoTipo>0</SituacaoTipo>
+      <TipoFormatoDataTipo>0</TipoFormatoDataTipo>
+      <DateTimeDataFimVigenciaEspecie>0001-01-01T00:00:00</DateTimeDataFimVigenciaEspecie>
+      <DateTimeDataInicioVigenciaEspecie>0001-01-01T00:00:00</DateTimeDataInicioVigenciaEspecie>
+      <IndicadorDataRelacionadaEspecie>0</IndicadorDataRelacionadaEspecie>
+      <SituacaoEspecie>0</SituacaoEspecie>
+      <TipoFormatoDataEspecie>0</TipoFormatoDataEspecie>
+      <CodigoPeriodicidadeArquivo>0</CodigoPeriodicidadeArquivo>
+      <TipoDataCompetencia>0</TipoDataCompetencia>
+      <CodigoTipoPeriodicidade>0</CodigoTipoPeriodicidade>
+      <TamanhoMaximoArquivo>0</TamanhoMaximoArquivo>
+      <CodigoClassificacao>0</CodigoClassificacao>
+      <DataReferenciaArquivo>0001-01-01T00:00:00</DataReferenciaArquivo>
+      <TipoApresentacaoArquivo>0</TipoApresentacaoArquivo>
+      <TipoArquivo>0</TipoArquivo>
+      <TamanhoArquivo>0</TamanhoArquivo>
+      <FlagReferenciaDataCompetencia>0</FlagReferenciaDataCompetencia>
+      <TipoEnvio>0</TipoEnvio>
+      <CodigoFormatoArquivo>0</CodigoFormatoArquivo>
+      <ValorPeriodicidade>0</ValorPeriodicidade>
+      <CodigoDRI>0</CodigoDRI>
+      <NumeroProtocoloArquivoIpe>0</NumeroProtocoloArquivoIpe>
+      <CodigoRiArquivo>0</CodigoRiArquivo>
+      <PrimeiraDataUltimoExercicioSocial>0001-01-01T00:00:00</PrimeiraDataUltimoExercicioSocial>
+    </Documento>
+    <NumeroQuadroRelacionado>214</NumeroQuadroRelacionado>
+    <NumeroCampoRelacionado>0</NumeroCampoRelacionado>
+    <NumeroGrupoRelacionado>207</NumeroGrupoRelacionado>
+    <NumeroItemTextoLivre>1</NumeroItemTextoLivre>
+    <NumeroSubCampo>0</NumeroSubCampo>
+    <Texto>	
+
+
+
+Declaração
+
+
+
+
+
+
+Barretos, 04 de maio de 2021
+
+
+
+Servimo-nos da presente para, em atenção ao disposto no Art. 25, inciso V da Instrução CVM nº 480, de 7 de dezembro de 2009, declarar que, na qualidade de diretores da MINERVA S.A., nós revisamos, discutimos e concordamos com as opiniões expressas no relatório dos auditores independentes (BDO RCS AUDITORES INDEPENDENTES - SS, CNPJ – 54.276.936/0001-79) relativo às demonstrações financeiras da MINERVA S.A., referentes aos períodos trimestrais findos em 31 de março de 2021. 
+
+
+Permanecemos à inteira disposição para esclarecimentos adicionais que se fizerem necessários.
+
+
+Atenciosamente,
+
+
+
+________________________
+Fernando Galletti de Queiroz 
+Diretor Presidente
+</Texto>
+    <Idioma>
+      <CodigoIdioma>1</CodigoIdioma>
+      <NomeIdioma />
+      <CodigoIdiomaSistemaOperacional />
+    </Idioma>
+  </AnexoTexto>
+</ArrayOfAnexoTexto>
